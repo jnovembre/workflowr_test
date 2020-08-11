@@ -9,7 +9,7 @@ editor_options:
 
 ## Introduction
 
-
+Read data:
 ```{r}
 teeth<-read.csv("data/teeth.csv",row.names =1)
 head(teeth)
